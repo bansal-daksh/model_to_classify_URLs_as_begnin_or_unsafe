@@ -1,0 +1,1 @@
+A simple dense feed forward neural network having 2 hidden layers (with 64 and 32 neurons respectively) is used to classify URLs as begnin or unsafe is created. The source from where these URLs are taken are already preprocessed, they have 72 attributes with 1 decision attribute.
