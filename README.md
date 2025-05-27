@@ -27,14 +27,13 @@ This project demonstrates the implementation of a simple feed-forward neural net
 ## 🛠 Technologies Used
 
 - Python
-- PyTorch / TensorFlow (choose the one you used)
+- TensorFlow
 ---
 
 ## 🔮 Future Improvements
 
 - Expand the system to use real-world, device-distributed data in a true federated setting.
-- Integrate secure aggregation and differential privacy techniques to further enhance data security.
-- Experiment with more complex architectures such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), or Transformers for improved performance.
+- Experiment with more complex architectures such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs).
 - Benchmark federated learning performance against traditional centralized training methods.
 - Extend the model to handle multiclass classification (e.g., phishing, malware, spam).
 - Add automated logging, evaluation metrics, and model versioning.
